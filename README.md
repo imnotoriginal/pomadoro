@@ -4,5 +4,5 @@ A simple pomodoro time management app. See it in action here: https://pomadoro.n
 
 ## Technologies used in this project
 
-* HTMK & CSS & JS
+* HTML, CSS & JS
 
